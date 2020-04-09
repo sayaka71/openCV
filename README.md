@@ -6,6 +6,7 @@ The script to detect contour of objects using watershed algorithm in openCV
 
 ## before
 <img src="https://github.com/sayaka71/openCV/blob/master/grain.JPG" width="300">
+
 ## after
 <img src="https://github.com/sayaka71/openCV/blob/master/Figure_3.png" width="300">
 
