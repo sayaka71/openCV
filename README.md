@@ -6,17 +6,18 @@ The script to detect contour of objects using watershed algorithm in openCV
 ## find contours
 
 after
-![Figure_3](https://github.com/sayaka71/openCV/blob/images/params.jpg)
+![Figure_3](https://github.com/sayaka71/openCV/blob/master/params.jpg)
+
 
 ## make wavelet
 omega0=0.2
-![wavelet01](https://github.com/sayaka71/openCV/blob/images/wavelet_01.jpg)
+![wavelet01](https://github.com/sayaka71/openCV/blob/master/wavelet_01.jpg)
 omega0=0.02
-![wavelet02](https://github.com/sayaka71/openCV/blob/images/wavelet_02.jpg)
+![wavelet02](https://github.com/sayaka71/openCV/blob/master/wavelet_02.jpg)
 
 ## find best probability density function
-![pdf01](https://github.com/sayaka71/openCV/blob/images/pdf01.jpg)
-![pdf02](https://github.com/sayaka71/openCV/blob/images/pdf02.jpg)
+![pdf01](https://github.com/sayaka71/openCV/blob/master/pdf01.jpg)
+![pdf02](https://github.com/sayaka71/openCV/blob/master/pdf02.jpg)
 
 =======================================================================================================================================================
 ## PDF (Probability Density Function)
